@@ -11,7 +11,7 @@ To solve his problem he built a pipeline:
 3. A Streamlit dashboard, summarizing the results, plotting essential charts and more.
 
 ### Required deliverables:
-- Online model API link:
+- Online model API link: https://hosen20-test.hf.space/docs
 - Online streamlit link: https://ay4e3dqhowzrgaypozyenv.streamlit.app/
 - README.md file
 
